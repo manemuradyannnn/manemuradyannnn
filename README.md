@@ -1,2 +1,2 @@
-**𝚑𝚒 𝚝𝚑𝚎𝚛𝚎!! 𝚒'𝚖 𝚖𝚊𝚗é.**  
-I 𝚊𝚖 𝚊 𝚜𝚎𝚌𝚘𝚗𝚍 𝚢𝚎𝚊𝚛 𝚌𝚜 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 @𝚞𝚠𝚊𝚝𝚎𝚛𝚕𝚘𝚘. I 𝚊𝚖 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚊𝚗𝚢 𝚝𝚑𝚒𝚗𝚐𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚖𝚎𝚍𝚝𝚎𝚌𝚑, 𝚍𝚊𝚝𝚊 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜, 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐. S𝚑𝚘𝚘𝚝 𝚖𝚎 𝚊𝚗 𝚎𝚖𝚊𝚒𝚕 @𝚖𝚊𝚗𝚎.𝚍𝚢𝚊𝚗@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖 𝚝𝚘 𝚝𝚊𝚕𝚔 𝚜𝚘𝚖𝚎 𝚖𝚘𝚛𝚎.  
+**hi there!! i'm mané.** 
+I am a second year cs student @uwaterloo. I am passionate about many things including design, medtech, data analysis, and building. Shoot me an email @mane.dyan@gmail.com to talk some more :p
