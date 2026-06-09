@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/manemuradyannnn/manemuradyannnn/main/pixel_me.png" width="150" alt="pixel mane"/>
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hi+there%2C+i'm+mane+%3A3)
 <p><em>i wanna bring back passion to tech</em></p>
 
