@@ -1,15 +1,11 @@
-<table>
-<tr>
-<td width="300" align="center">
-<img src="https://raw.githubusercontent.com/manemuradyannnn/manemuradyannnn/main/pixel_me.png" width="250" alt="pixel mane"/>
-</td>
-<td>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=C9A0FF&center=false&vCenter=true&width=435&lines=hi+there%2C+i'm+mane+%3A3;i+wanna+bring+passion+back+to+tech+%E2%9C%A6)
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/manemuradyannnn/manemuradyannnn/main/pixel_me.png" width="140" alt="pixel mane"/>
+<h1>hi there, i'm mane :3</h1>
+ 
+<p><em>i wanna bring back passion to tech ✦</em></p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C9A0FF&center=true&vCenter=true&width=435&lines=2nd+year+CS+%40+UWaterloo+%F0%9F%90%BB;medtech+%7C+design+%7C+data+%7C+building;always+making+something+new)
+ 
+</div>
 
 ---
 
