@@ -1,22 +1,24 @@
-<div align="center">
+<table>
+<tr>
+<td width="300" align="center">
+<img src="https://raw.githubusercontent.com/manemuradyannnn/manemuradyannnn/main/pixel_me.png" width="250" alt="pixel mane"/>
+</td>
+<td>
 
-<img src="https://raw.githubusercontent.com/manemuradyannnn/manemuradyannnn/main/pixel_me.png" width="200" alt="pixel mane"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=C9A0FF&center=false&vCenter=true&width=435&lines=hi+there%2C+i'm+mane+%3A3;i+wanna+bring+passion+back+to+tech+%E2%9C%A6)
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hi+there%2C+i'm+mane+%3A3)
-<p><em>i wanna bring back passion to tech</em></p>
-
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🕹️ about me
+###about me
 
 ```yaml
-name:       "mane"
+name:       "mané (ma-nay)"
 school:     "University of Waterloo — CS 2nd year"
-interests:  ["design", "medtech", "data analysis", "building"]
+interests:  ["design", "medtech", "tbh just building cool stuff i love"]
 status:     "shipping something rn probably"
 contact:    "mane.dyan@gmail.com"
 ```
