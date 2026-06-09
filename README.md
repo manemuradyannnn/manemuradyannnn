@@ -29,22 +29,11 @@ contact:    "mane.dyan@gmail.com"
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-### 📊 github stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=manemuradyannnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0ff&icon_color=c9a0ff&text_color=ffffff" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manemuradyannnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0ff&text_color=ffffff" />
 
 </div>
 
@@ -63,7 +52,7 @@ contact:    "mane.dyan@gmail.com"
 ---
 
 <div align="center">
-<sub>made with 💜 · always building · shoot me an email to talk more :)</sub>
+<sub>made with luv...shoot me an email to talk more :)</sub>
 </div>
 
 
