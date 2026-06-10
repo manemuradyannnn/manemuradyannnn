@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=42&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=i+love+building+%E2%82%8A+%E2%8A%B9;hi+there%2C+i'm+mane+%3A3;bringing+passion+back+to+tech)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=42&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=hi+there%2C+i'm+mane+%3A3;i+love+building+%E2%82%8A+%E2%8A%B9;bringing+passion+back+to+tech)
 
 <br/>
 
