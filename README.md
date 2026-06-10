@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hi+there%2C+i'm+mane+%3A3;i+love+building+%E2%9C%A6)
 
 </div>
