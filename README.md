@@ -4,13 +4,13 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=42&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=i+love+building+%F0%9F%92%9C;hi+there%2C+i'm+mane+%3A3;bringing+passion+back+to+tech+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=42&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=i+love+building+%F0%9F%92%9C;hi+there%2C+i'm+mane+%3A3;bringing+passion+back+to+tech)
 
 <br/>
 
 > some of my many passions include health/med tech, design, indie websites,
 > and just bringing back passion to tech. i build things to have fun :)
-> aaaaaaaand i also love talking so please shoot me an email!
+> aaaaaaaand i also love talking so please shoot me an email at mane.dyan@gmail.com!
 
 <br/>
 
@@ -21,6 +21,7 @@
 ![cute font user](https://jarema.me/cutefontuser.gif)
 ![powered by imagination](https://jarema.me/imagine.gif)
 ![got html?](https://jarema.me/got_html.gif)
-![sweet](ttps://jarema.me/sweet.png)
+![sweet](https://jarema.me/sweet.png)
+![sweet](https://hellnet.work/8831/img/buttons/Tokyo_Springs_2619_jslink.gif)
 
 </div>
