@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/manemuradyannnn/manemuradyannnn/main/pixel_me.png" width="140" alt="pixel mane"/>
-<br/>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=42&pause=1200&color=C9A0FF&center=true&vCenter=true&width=600&lines=i+love+building+%F0%9F%92%9C;hi+there%2C+i'm+mane+%3A3;bringing+passion+back+to+tech+%E2%9C%A6)
  
 <br/>
