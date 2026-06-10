@@ -9,7 +9,7 @@
 <br/>
 
 > some of my many passions include health/med tech, design, indie websites,
-> and just bringing back passion to tech. i build things to have fun :)
+> and just bringing back personalization to tech. i build things to have fun :)
 > aaaaaaaand i also love talking so please shoot me an email at mane.dyan@gmail.com!
 
 <br/>
