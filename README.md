@@ -4,10 +4,11 @@
 
 </div>
 
+### some of my many passions include health/med tech, design, indie websites, and just bringing back passion to tech. i build things to have fun :) aaaaaaaand i also love talking so please shoot me an email at mane.dyan@gmail.com!!
+
 ---
-![JavaScript](https://i.imgur.com/4f3LKqL.png)
-![TypeScript](https://i.imgur.com/5vnsOgE.png)
-![Python](https://i.imgur.com/OcktuHh.png)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manemuradyan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+![miaow](https://jarema.me/join_logo.gif)
+![web design is my passion](https://jarema.me/buttonwebdesign.gif)
+![cute font user](https://jarema.me/cutefontuser.gif)
+![powered by imagination](https://jarema.me/imagine.gif)
 
