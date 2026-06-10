@@ -6,7 +6,7 @@
 
 ---
 
-### 🕹️ about me
+### about me ₊ ⊹
 
 ```yaml
 name:       "mane"
@@ -22,7 +22,7 @@ contact:    "mane.dyan@gmail.com"
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://i.imgur.com/4f3LKqL.png)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
