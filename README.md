@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manemuradyannnn/manemuradyannnn/main/pixel_me.png" width="140" alt="pixel mane"/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=C9A0FF&center=true&vCenter=true&width=500&lines=hi+there%2C+i'm+mane+%3A3;i+wanna+bring+passion+back+to+tech+%E2%9C%A6)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=DBA895&center=true&vCenter=true&width=500&lines=hi+there%2C+i'm+mane+%3A3;i+wanna+bring+passion+back+to+tech+%E2%9C%A6)
 
 </div>
 
