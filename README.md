@@ -5,7 +5,7 @@
 </div>
 
 ---
-![JavaScript](https://i.imgur.com/4f3LKqL.png)
+![JavaScript](https://i.imgur.com/4f3LKqL.png](https://cyber.dabamos.de/88x31/affection.gif))
 ![TypeScript]([https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white](https://i.imgur.com/5vnsOgE.png))
 ![Python]([https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54](https://i.imgur.com/OcktuHh.png))
 (https://linkedin.com/in/manemuradyan)
