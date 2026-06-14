@@ -17,7 +17,7 @@
 ---
 
 ![miaow](https://cyber.dabamos.de/88x31/corruptedunicorn.gif)
-![web design is my passion](https://jarema.me/buttonwebdesign.gif)
+![web design is my passion](https://64.media.tumblr.com/2df576ca2caa853f2065873063d1d336/f6aa4a68b0575f05-c7/s100x200/c93d7a7e33539a6ade78df5d9c4bc21bf260fbb9.pnj)
 ![cute font user](https://jarema.me/cutefontuser.gif)
 ![powered by imagination](https://jarema.me/imagine.gif)
 ![got html?](https://jarema.me/got_html.gif)
