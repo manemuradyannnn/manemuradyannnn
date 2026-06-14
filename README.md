@@ -18,8 +18,8 @@
 
 ![miaow](https://cyber.dabamos.de/88x31/corruptedunicorn.gif)
 ![web design is my passion](https://anlucas.neocities.org/wwwbutton.gif)
-![cute font user](https://jarema.me/cutefontuser.gif)
-![powered by imagination](https://jarema.me/imagine.gif)
+![cute font user](https://yesterhost.neocities.org/archive/buttons/button262.gif)
+![powered by imagination](https://yesterhost.neocities.org/archive/buttons/button377.gif)
 ![got html?](https://jarema.me/got_html.gif)
 ![sweet](https://jarema.me/sweet.png)
 ![sweet](https://hellnet.work/8831/img/buttons/Tokyo_Springs_2619_jslink.gif)
