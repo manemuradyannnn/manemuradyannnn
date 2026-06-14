@@ -16,7 +16,7 @@
 
 ---
 
-![miaow](https://jarema.me/join_logo.gif)
+![miaow](https://cyber.dabamos.de/88x31/corruptedunicorn.gif)
 ![web design is my passion](https://jarema.me/buttonwebdesign.gif)
 ![cute font user](https://jarema.me/cutefontuser.gif)
 ![powered by imagination](https://jarema.me/imagine.gif)
