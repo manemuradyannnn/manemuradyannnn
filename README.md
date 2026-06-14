@@ -21,7 +21,7 @@
 ![cute font user](https://yesterhost.neocities.org/archive/buttons/button262.gif)
 ![powered by imagination](https://yesterhost.neocities.org/archive/buttons/button377.gif)
 ![got html?](https://jarema.me/got_html.gif)
-![sweet](https://jarema.me/sweet.png)
+![sweet](https://yesterhost.neocities.org/archive/buttons/button326.gif)
 ![sweet](https://hellnet.work/8831/img/buttons/Tokyo_Springs_2619_jslink.gif)
 
 </div>
